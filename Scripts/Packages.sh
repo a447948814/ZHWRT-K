@@ -50,6 +50,7 @@ UPDATE_PACKAGE() {
 
 UPDATE_PACKAGE "aurora" "eamonxg/luci-theme-aurora" "master"
 UPDATE_PACKAGE "aurora-config" "eamonxg/luci-app-aurora-config" "master"
+UPDATE_PACKAGE "luci-app-easytier" "EasyTier/luci-app-easytier" "main"
 UPDATE_PACKAGE "easytier" "EasyTier/luci-app-easytier" "main"
 UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "sing-box luci-app-homeproxy luci-app-wolultra"
 UPDATE_PACKAGE "luci-app-daed" "QiuSimons/luci-app-daed" "kix"
